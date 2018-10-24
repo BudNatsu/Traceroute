@@ -1,0 +1,1 @@
+Pensez à créer le dossier internet au même endroit où se situe le script 
